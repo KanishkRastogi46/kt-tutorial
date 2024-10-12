@@ -13,3 +13,8 @@
 - ## Inheritance in Kotlin ✅
 - ## Overriding in Kotlin ✅
 - ## Abstract classes and Interfaces Kotlin ✅
+- ## Data Classes in Kotlin ✅
+- ## Enums in Kotlin ✅
+- ## Sealed Classes in Kotlin ✅
+- ## Exceptional Handling ✅
+- ## File I/O operations in Kotlin ✅
